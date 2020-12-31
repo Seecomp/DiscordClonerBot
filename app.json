@@ -9,8 +9,5 @@
     "TOKEN": "Token Here",
     "PORT": "8000",
     "PREFIX": "c;",
-    "SETUP_BY": {
-            "description": "Who initiated this setup",
-            "value": ""
-    }
+  }
   }
