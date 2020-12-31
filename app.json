@@ -1,7 +1,0 @@
-{
-  "name": "DiscordClonerBot",
-  "description": "Discord Server Cloner Bot i guess..",
-  "repository": "https://github.com/Seecomp/DiscordClonerBot",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "static"]
-}
