@@ -6,9 +6,9 @@ var fs = require("fs");
 var http = require("http"); 
 var Config = require(__dirname + "/config/config.json")
 var client = new Discord.Client();
-var Prefix = Config.prefix;
-var BotToken = Config.token;
-var OwnerId = "UR ID HERE"
+var Prefix = process.env.PREFIX;
+var BotToken = process.env.TOKEN;
+var OwnerId = "778428586192797696"
 
 client.on(`reconnecting`, async function () {
   
