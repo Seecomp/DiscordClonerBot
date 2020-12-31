@@ -5,9 +5,11 @@
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node", "express", "static"]
 },
+{
   "env": {
     "TOKEN": "Token Here",
     "PORT": "8000",
     "PREFIX": "c;",
+    }
   }
-  }
+}
