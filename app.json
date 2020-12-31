@@ -4,19 +4,4 @@
   "repository": "https://github.com/Seecomp/DiscordClonerBot",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node", "express", "static"]
-},
-  "env": {
-     "TOKEN": {
-      "description": "The token.",
-      "value": ""
-    },
-    "PORT": {
-      "description": "The port.",
-      "value": "8000"
-    },
-    "PREFIX": {
-      "description": "The prefix.",
-      "value": "c."
-    },
-  }
 }
